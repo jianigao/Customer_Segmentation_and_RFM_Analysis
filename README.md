@@ -42,4 +42,5 @@ This repository includes three Jupyter notebooks for three case studies using di
   + Uses a dataset called "customer.csv"
   + Determines and visualizes different customer segments and the amount spent by each segment
   + Visualizes high growth customers and the amount spent by this type of customers
-  + Creates a machine learning model (type: classification, algorithm: logistic regression, with selected features) to predict high potential customers
+  + Creates a machine learning model (type: classification, algorithm: logistic regression) to predict high potential customers
+  + Compares prediction results with other algorithms (decision tree, random forests, support vector machine)
