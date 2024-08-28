@@ -1,8 +1,10 @@
 ## Customer Segmentation and RFM Analysis
 
+
 #### Introduction
 
 In retail, it's always important to analyze customer types (RFM analysis) and predict their future behavior to make better business decisions. In this case study, we will create several machine learning models to answer different problems.
+
 
 #### RFM Analysis
 
@@ -22,6 +24,7 @@ R-Tier-3 (least recent) | F-Tier-3 (only one transaction) | M-Tier-3 (lowest spe
 Each of the three variables (Recency, Frequency, and Monetary) usually consists of 3 equal groups, which creates 27 (3x3x3) different customer segments. 
 
 For more details, click [here](https://rpaudel42.github.io/pages/predicting_customer/predicting_customer.html).
+
 
 #### File Description
 
